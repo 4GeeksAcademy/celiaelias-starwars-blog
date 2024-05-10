@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+.card {
+    background-color: grey;
+    padding-top: 10px;
+}
+.grey-background {
+    background-color: #282727;
+    border-left: 2px solid #9e4f60;
+    padding-top: 10px;
+}
